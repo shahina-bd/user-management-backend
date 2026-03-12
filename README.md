@@ -57,3 +57,13 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# User Management System (Laravel Backend)
+
+This repository contains the backend API built with Laravel.
+
+## Frontend Repository
+
+Vue.js frontend code is available here:
+
+[https://github.com/yourusername/user-management-frontend](https://github.com/shahina-bd/user-management-frontend.git)
